@@ -7,4 +7,4 @@ This is an example site for the intro to front-end web development course at The
 
 # Contact
 
-email: dan@flatiron.com
+email: daniel@flatiron.com
